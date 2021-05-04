@@ -13,9 +13,9 @@
     src: url(../font/HopsAndBarley1-Bold.otf);
 }
 
-html,
 body {
     background-image: url(../img/back.png);
+    overflow: hidden;
 }
 
 .boxas {
@@ -32,7 +32,7 @@ body {
     box-shadow: 0 0 50px #dd295f98; 
   }
 
-#cursor {
+  #cursor {
     pointer-events: none;
     position: absolute;
     z-index: 3;
