@@ -1,0 +1,140 @@
+@font-face {
+    font-family: HAB3B;
+    src: url(../font/HopsAndBarleyc3-Bold.otf);
+}
+
+@font-face {
+    font-family: HAB3R;
+    src: url(../font/HopsAndBarleyc3-Regular.otf);
+}
+
+@font-face {
+    font-family: HAB1B;
+    src: url(../font/HopsAndBarley1-Bold.otf);
+}
+
+html,
+body {
+    background-image: url(../img/back.png);
+}
+
+.boxas {
+    position: absolute;
+    left: 0%;
+    top: 35%;
+    width: 350px;
+    height: 250px;  
+    padding: 50px;
+    border-radius: 8px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    background-color: #00000093;
+    box-shadow: 0 0 50px #dd295f98; 
+  }
+
+#cursor {
+    pointer-events: none;
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    left: -100%;
+    background: transparent url('../img/cursor.png') no-repeat center;
+    background-size: contain;
+    width: 32px;
+    height: 50px;
+  }
+
+#server {
+    position: absolute;
+    left: 40%;
+    top: 0%;
+    font-family: HAB3B;
+    font-size: 64px;
+    color: #dd295f;
+    text-shadow: 0 0 8px #dd295f; 
+}
+
+#rp {
+    color: #fff;
+    text-shadow: 0 0 8px #fff;
+}
+
+#playing {
+    position: absolute;
+    left: 1%;
+    bottom: 4%;
+    font-family: HAB3R;
+    font-size: 25px;
+    color: #fff;
+}
+
+#song {
+    position: absolute;
+    left: 1%;
+    bottom: 1%;
+    font-family: HAB3R;
+    font-size: 25px;
+    color: #fff;
+}
+
+#gdown {
+    position: absolute;
+    left: 6%;
+    top: 62%;
+    font-size: 52px;
+    color: #dd295f;
+}
+
+#gup {
+    position: absolute;
+    left: 14%;
+    top: 62%;
+    font-size: 52px;
+    color: #dd295f;
+}
+
+.play {
+    position: absolute;
+    left: 10%;
+    top: 62%;
+    font-size: 52px;
+    color: #dd295f;
+}
+
+#web {
+    position: absolute;
+    left: 1%;
+    top: 45%;
+    font-size: 45px;
+    color: #ffffff;
+}
+
+#webtxt {
+    position: absolute;
+    left: 6%;
+    top: 41%;
+    font-family: HAB1B;
+    font-size: 40px;
+    color: #fff;
+}
+
+#dc {
+    position: absolute;
+    left: 1%;
+    top: 50%;
+    font-size: 45px;
+    color: #ffffff;
+}
+
+#dctxt {
+    position: absolute;
+    left: 6%;
+    top: 46%;
+    font-family: HAB1B;
+    font-size: 40px;
+    color: #fff;
+}
+
+#pink {
+    color: #dd295f; 
+}
