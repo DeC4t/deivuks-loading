@@ -1,3 +1,4 @@
+// Music
 
 var audio = document.getElementById("sound");
 audio.volume = 0.1;
@@ -27,11 +28,12 @@ function vlPadidinti() {
     audio.volume += 0.1;
   }
 
-var pointer = $('#cursor');
-$(document).on('mousemove', function (event) {
-  pointer.css({
-    top: event.pageY + 'px',
-    left: event.pageX + 'px'
-  });
-});
+// Cursor
 
+  var pointer = $('#cursor');
+    $(document).on('mousemove', function (event) {
+      pointer.css({
+        top: event.pageY + 'px',
+        left: event.pageX + 'px'
+      });
+    });
