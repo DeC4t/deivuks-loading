@@ -1,4 +1,4 @@
-# deivuks-loading
+# Deivuks-loading
 
 Simple fivem loading screen made by 🖤Deivuks_420🖤#2462. This loading screen is 100% free.
 <br>
@@ -15,4 +15,5 @@ https://discord.gg/nyyH5QZZrJ
 
 You can edit and use it just to your self with no plan to sell it or do something ilegal. This design is free and everyone can download it change colors and other stuf and use for them self. Good using :))
 
-<img src=“https://i.imgur.com/YHPzlV2.png>
+### Images
+![loading](https://i.imgur.com/YHPzlV2.png)
