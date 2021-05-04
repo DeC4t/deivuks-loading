@@ -79,24 +79,24 @@ body {
 
 #gdown {
     position: absolute;
-    left: 6%;
-    top: 62%;
+    left: 5%;
+    top: 60%;
     font-size: 52px;
     color: #dd295f;
 }
 
 #gup {
     position: absolute;
-    left: 14%;
-    top: 62%;
+    left: 13%;
+    top: 60%;
     font-size: 52px;
     color: #dd295f;
 }
 
 .play {
     position: absolute;
-    left: 10%;
-    top: 62%;
+    left: 9%;
+    top: 60%;
     font-size: 52px;
     color: #dd295f;
 }
