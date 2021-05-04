@@ -16,4 +16,4 @@ https://discord.gg/nyyH5QZZrJ
 You can edit and use it just to your self with no plan to sell it or do something ilegal. This design is free and everyone can download it change colors and other stuf and use for them self. Good using :))
 
 ### Images
-![loading](https://i.imgur.com/YHPzlV2.png)
+![loading](https://imgur.com/a/1hsUwTJ)
